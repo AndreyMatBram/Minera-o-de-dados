@@ -1,0 +1,43 @@
+{
+    "names": [
+        "Gender",
+        "Age",
+        "Height",
+        "Weight",
+        "family_history_with_overweight",
+        "FAVC",
+        "FCVC",
+        "NCP",
+        "CAEC",
+        "SMOKE",
+        "CH2O",
+        "SCC",
+        "FAF",
+        "TUE",       
+        "CALC",
+        "MTRANS",
+        "NObeyesdad"
+    ],
+    "features": [
+        "Age",
+        "Height",
+        "Weight",
+        "FCVC",
+        "NCP",
+        "CH2O",
+        "FAF",
+        "TUE"
+    ],
+    "categorical": [
+        "Gender",
+        "family_history_with_overweight",
+        "FAVC", 
+        "CAEC",
+        "SMOKE",
+        "SCC",
+        "CALC",
+        "MTRANS",
+        "NObeyesdad"        
+    ],
+    "target": "NObeyesdad"
+  }
